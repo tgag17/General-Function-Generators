@@ -12,5 +12,5 @@ In `General_Function_Generator_1D.ipynb`, we go through the process of creating 
 
 In `General_Function_Generator_2D.ipynb`, we extend the above method to create 2D functions using the variational quantum circuits.
 
-The work is done in [**Tequila**](https://github.com/aspuru-guzik-group/tequila) which is an Extensible Quantum Information and Learning Architecture where the main goal is to simplify and accelerate implementation of new ideas for quantum algorithms.
+The work is done in [**Tequila**](https://github.com/aspuru-guzik-group/tequila) which is an Extensible Quantum Information and Learning Architecture where the main goal is to simplify and accelerate implementation of new ideas for quantum algorithms. The above tutorials can also be found in the [Tequila-Tutorials](https://github.com/aspuru-guzik-group/tequila-tutorials) repository.
 
