@@ -1,6 +1,6 @@
 # General-Function-Generators
 
-This repository was created as a part of the [QOSF Mentorship Project](https://qosf.org/qc_mentorship/)
+This repository was created as a part of the [QOSF Mentorship Program](https://qosf.org/qc_mentorship/)
 <br>
 **Mentee**: Tanya Garg
 <br>
